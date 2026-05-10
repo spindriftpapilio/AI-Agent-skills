@@ -156,3 +156,5 @@
 
 <img width="430" height="430" alt="6fa35dd007b99e2f605b1983d922ed00" src="https://github.com/user-attachments/assets/423bf96b-ac6e-4715-8de0-e40f666f3852" />
 
+## 参考
+https://github.com/Mindgard/ai-ide-skills
